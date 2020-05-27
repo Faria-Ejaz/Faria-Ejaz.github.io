@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Faria-Ejaz",
+      "name": "Faria Ejaz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23307811?v=4",
+      "profile": "http://Faria-Ejaz.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 1,
+  "projectName": "masterPortfolio",
+  "projectOwner": "Faria-Ejaz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
