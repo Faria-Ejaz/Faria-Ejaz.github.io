@@ -9,7 +9,7 @@ import './ContactComponent.css';
 
 const ContactData = {
 	title: "Contact Me",
-    profile_image_path: "me.jpg",
+    profile_image_path: "avatar.jpg",
     description: "I love coding and sharing my learning with others. You can get in touch anytime through"
 };
 

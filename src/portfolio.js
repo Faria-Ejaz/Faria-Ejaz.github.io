@@ -118,7 +118,7 @@ const skills = {
     },
     {
       title: "Tools",
-      imagePath: "languages_skills.svg",
+      imagePath: "undraw_mobile.svg",
       skills: [
         "⚡ Experience working with Karate, it is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.",
       ],
@@ -326,7 +326,7 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Talks",
   subtitle: "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅",
 
   talks: [

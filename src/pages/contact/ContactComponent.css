@@ -61,6 +61,18 @@
   height: auto;
 }
 
+@media (max-width: 425px) {
+  .contact-heading-img-div > img {
+   padding-left: 38px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 426px) {
+  .contact-heading-img-div > img {
+   padding-left: 90px;
+  }
+}
+
 .blog-heading-img-div > img{
     max-width: 100%;
     height: auto;
